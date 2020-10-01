@@ -1,0 +1,6 @@
+Russian premier league
+Points distribution:
+3 for win, 1 for tie, 0 for loss.
+In case of equality of points, position of teams is determined by wins number, difference between scored and missed
+goals or by number of scored goals. If the teams still cannot be separated, they will be awarded the same position in
+the table.
